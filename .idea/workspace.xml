@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff32583a-3f4e-4f7f-b9e7-8796fefa0e79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eje1C4RRjM0z05JCZ3LtZaVRKd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Study Materials\Project - 6th\xylophone_app\assets" />
+      <recent name="C:\Users\Tonmoy\Desktop\xylophone_app\android\app\src\main\res" />
+      <recent name="C:\Users\Tonmoy\Desktop\xylophone_app\fonts" />
+      <recent name="C:\Users\Tonmoy\Desktop\xylophone_app\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tonmoy\Desktop\xylophone_app\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff32583a-3f4e-4f7f-b9e7-8796fefa0e79" name="Default Changelist" comment="" />
+      <created>1594839211630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594839211630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594928924720">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1594928924720" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1594970285579">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1594970285579" />
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom" timestamp="1595446679856">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595446679856" />
+    <state width="1877" height="262" key="GridCell.Tab.0.center" timestamp="1595446679855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595446679855" />
+    <state width="1877" height="262" key="GridCell.Tab.0.left" timestamp="1595446679855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595446679855" />
+    <state width="1877" height="262" key="GridCell.Tab.0.right" timestamp="1595446679855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595446679855" />
+    <state x="550" y="227" key="SettingsEditor" timestamp="1594928983842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="550" y="227" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1594928983842" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1594925758842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1594925758842" />
+  </component>
+</project>
