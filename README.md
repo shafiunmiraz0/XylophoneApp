@@ -2,9 +2,9 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tonmoy10ms/XylophoneApp/blob/master/LICENSE)
 
-##Screenshot
+## Screenshot
 
-![](images/screen_01.png)![](images/screen_02.png)
+![](images/screen_02.png)![](images/screen_04.png)
 
  A simple and minimal gradient based Xylophone app
 
