@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![](images/screen_02.png)![](images/screen_04.png)
+![](images/screen_02.png)  ![](images/screen_04.png)
 
  A simple and minimal gradient based Xylophone app
 
