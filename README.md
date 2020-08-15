@@ -4,8 +4,8 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/tonmoy10ms/XylophoneApp/blob/master/LICENSE)
 
-[![forthebadge](https://i.ibb.co/z7T3HYn/Made-with-Flutter-9cf-01-01.png)](https://www.android.com/) [![shields.io](https://i.ibb.co/6ZpqhdN/Made-with-Flutter-9cf-01-01.png)](https://flutter.dev)
-
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://android.com)
+[![shields.io](https://img.shields.io/badge/Made%20with%20Flutter-%E2%99%A5-9cf?style=for-the-badge&logo=flutter)](https://flutter.dev)
 ## **Install**
 
 |Android|iOS|
